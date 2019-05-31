@@ -1,0 +1,6 @@
+com\qa\linkedin\base\Testbase.class
+com\qa\linkedin\pages\LinkedinLoggedInPage.class
+com\qa\linkedin\pages\LinkedinLoginPage.class
+com\qa\linkedin\pages\LinkedinHomePage.class
+com\qa\linkedin\util\TestUtil.class
+com\qa\linkedin\pages\SearchResultsPage.class
